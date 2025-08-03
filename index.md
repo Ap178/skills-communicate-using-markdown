@@ -41,10 +41,16 @@ int main() {
 }
 ```
 
+# task list
+
+- [X] completed header
+- [X] added image
+- [X] added code block
+- [X] added task list
 
 
+I have added 3 different header section (h1,h2,h4), image,code block, task list.
 
-I have added 3 different header section (h1,h2,h4), image,code block.
 
 
 
